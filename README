@@ -15,6 +15,9 @@ Homepage: <http://tjjr.fi/sw/libsuinput/>
 How to install
 ==============
 
+Dependencies:
+   sudo apt install autoconf
+
 Just run the following commands:
 
   ./configure && make && make install
