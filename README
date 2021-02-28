@@ -16,7 +16,8 @@ How to install
 ==============
 
 Dependencies:
-   sudo apt install autoconf
+
+   sudo apt install autoconf libtool
 
 Just run the following commands:
 
