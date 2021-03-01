@@ -21,7 +21,7 @@ Dependencies:
 
 Just run the following commands:
 
-  autoconf
+  ./autogen.sh
   ./configure && make && make install
 
 It installs the library to /usr/local/lib and header files to
