@@ -17,10 +17,11 @@ How to install
 
 Dependencies:
 
-   sudo apt install autoconf libtool
+   sudo apt install autoconf libtool libudev-dev
 
 Just run the following commands:
 
+  autoconf
   ./configure && make && make install
 
 It installs the library to /usr/local/lib and header files to
